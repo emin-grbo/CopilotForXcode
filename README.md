@@ -95,10 +95,7 @@ You can receive auto-complete type suggestions from GitHub Copilot either by sta
    warning.
 
 1. To avoid confusion, we recommend disabling `Predictive code completion` under
-   `Xcode` > `Preferences` > `Text Editing` > `Editing`.
-
-1. Press `tab` to accept the first line of a suggestion, hold `option` to view
-   the full suggestion, and press `option` + `tab` to accept the full suggestion.
+   `Xcode` > `Settings` > `Text Editing` > `Editing`.
 
    <p align="center">
      <img alt="Screenshot of welcome screen" src="./Docs/welcome.png" width="450" />
